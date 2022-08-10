@@ -1,7 +1,3 @@
-<h1 align="center">
-  Yoo!! Whats up!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif"width=150 height=150">
 </div>
@@ -22,4 +18,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cCornejoR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
