@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=cCornejoR&style=flat-square&color=blue" alt="50"/>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/wa8uMtV7bmdGTGGmD7/giphy.gif" width=150>
+<img src="https://media.giphy.com/media/E9NLvqa6ZuA3m/giphy.gif" width=150>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/crhistian-cornejo/">
