@@ -1,5 +1,3 @@
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=cCornejoR&style=flat-square&color=blue" alt="50"/>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/E9NLvqa6ZuA3m/giphy.gif" width=150>
 </div>
@@ -10,7 +8,9 @@
   <a href="https://twitter.com/CrhisCornejo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
+ <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=cCornejoR&style=flat-square&color=blue" alt="50"/>
+</div>    
 ### :hammer_and_wrench:I know something about this 😄:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
