@@ -11,7 +11,7 @@
  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=cCornejoR&style=flat-square&color=blue" alt="50"/>
 </div>    
-### :hammer_and_wrench:I know something about this 😄:
+:hammer_and_wrench:I know something about this 😄:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
