@@ -1,5 +1,5 @@
 <div id="header" align="center">
-Interesting on Climate Change for Water Resources
+I'm an Agricultural Engineer specialized in Hydrology and Hydraulics, currently starting out as a Junior Developer for a web platform focused on these same fields.
 </div>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/ZXrXhqmJHDiOYC5xW9/giphy.gif" width="150">
